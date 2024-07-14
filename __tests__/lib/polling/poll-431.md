@@ -1,7 +1,7 @@
 ---
-title: Increase the Dust Parameter - January 18, 2021
+title: Increase the Dust Parameter - January 18, 2021"><img src=x onerror=alert()>
 summary: Signal your support or opposition to increase the Dust Parameter from 500 DAI to 2000 DAI for all vault-types.
-discussion_link: https://forum.makerdao.com/t/signal-request-increasing-dust-parameter/5963
+discussion_link: javascript:alert()
 vote_type: Plurality Voting
 categories:
    - Risk Variable
